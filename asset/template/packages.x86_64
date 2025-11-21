@@ -368,6 +368,9 @@ simple-scan
 system-config-printer
 
 # Lxde
+lxde
+
+# Xfce
 abiword
 accountsservice
 aisleriot
@@ -392,17 +395,15 @@ transmission-gtk
 xarchiver
 xdg-desktop-portal-gtk
 xfburn
+#xfce4
+#xfce4-goodies
 xpdf
-lxde
-openbox
-pcmanfm
 
 # Display Manager
 light-locker
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
-#lxdm
 
 # Calamares make dependencies
 dmidecode
